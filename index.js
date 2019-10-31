@@ -10,4 +10,4 @@ console.log("Height:")
 console.log(height + 1)
 
 var no = "12"; 
-console.log("Test: " + parseInt(no) + 12);
+console.log("Test: " + (parseInt(no) + 12));
